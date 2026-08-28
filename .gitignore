@@ -26,3 +26,7 @@ dist-ssr
 # Nested subdirectories
 gukhan-portfolio/
 
+# Build caches
+.vite/
+
+
